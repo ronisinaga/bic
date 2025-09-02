@@ -1,0 +1,25 @@
+{
+    "name": "bic/admin",
+    "description": "Packages for admin user",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ronisinaga",
+            "email": "dragonif01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+
+    },
+    "autoload": {
+        "files":[
+
+        ],
+        "psr-4":{
+            "jayakari\\bic\\admin": "src/"
+        }
+    }
+}

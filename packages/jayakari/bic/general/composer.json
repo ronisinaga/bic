@@ -1,0 +1,14 @@
+{
+    "name": "bic/general",
+    "description": "Packages for general user",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ronisinaga",
+            "email": "dragonif01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

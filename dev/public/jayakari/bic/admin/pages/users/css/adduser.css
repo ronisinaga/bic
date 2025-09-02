@@ -1,0 +1,5 @@
+.chosen-container {
+    text-align: left; // overrides body text-align;
+    font-family: 'FontAwesome', 'Helvetica';
+    font-size: 16px;
+}

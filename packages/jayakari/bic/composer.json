@@ -1,0 +1,14 @@
+{
+    "name": "jayakari/sch",
+    "description": "Website untuk bic (business innovation center)",
+    "type": "project",
+    "license": "exclusive for bic institution",
+    "authors": [
+        {
+            "name": "ronisinaga",
+            "email": "dragonif01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

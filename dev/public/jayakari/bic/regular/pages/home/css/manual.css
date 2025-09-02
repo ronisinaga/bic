@@ -1,0 +1,8 @@
+div.inline { float:left; }
+.clearBoth { clear:both; }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
